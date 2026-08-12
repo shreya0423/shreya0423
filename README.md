@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 What I've been building
-- 🧠 An AI-powered **academic support system** using RAG + FAISS for natural language & voice queries on student data
+- 🧭 **CareerGenie AI** — an AI-powered career path recommender with a quiz-based assessment, ML predictions, and a guidance chatbot
 - 🎓 **Campus Connect Bot** — a college enquiry chatbot with NLP-based Q&A, built with Flask & MySQL
-- 🎙️ Voice-based AI assistants using OpenAI Whisper, Claude API, and speech recognition
+- 🧠 AI-powered academic tools using RAG, FAISS, and voice interfaces (Whisper, Claude API)
 
 ### 🛠️ Tech Stack
 
@@ -24,7 +24,7 @@
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### 📌 Featured Projects
-- **[Student AI System with RAG & Voice Assistant](https://github.com/shreya0423/CareerGenie-AI)** — AI-powered academic support platform for natural language & voice queries, built with FastAPI, FAISS, Claude Sonnet, Ollama, and Whisper
+- **[CareerGenie AI](https://github.com/shreya0423/CareerGenie-AI)** — AI-powered career path recommendation system with a quiz-based assessment, ML predictions (Random Forest), roadmap tracking, and a guidance chatbot
 - **[Campus Connect Bot](https://github.com/shreya0423/campus-connect)** — College enquiry chatbot with NLP-based Q&A, user/admin modules, and a suggestion box, built with Flask and MySQL
 
 ### 📜 Certifications
